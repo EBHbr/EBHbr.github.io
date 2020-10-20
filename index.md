@@ -16,26 +16,14 @@ Coleção de referência com procedimentos estatísticos frequentemente usados.
 A sessão *Ingredientes* contém uma coleção de funções selecionadas de diversos pacotes disponíveis.  
 A sessão *Kata* contém sequências de análise usando as ferramentas diversas ao longo de um racional de análise.  
 
-[Introdução](./010-intro.md)
-
-[Fundamentos](011-fundamentos.md)
-
-[TendenciaCentral](012-tendenciaCentral.md)
-
-[Dispersao](013-dispersao.md)
-
-[AssimetriaEtc](014-assimetriaEtc.md)
-
-[Exemplosplots](015-exemplosplots.md)
-
-[Hipoteses](020-hipoteses.md)
-
-[Associacoes](030-associacoes.md)
-
-[Multivariada](040-multivariada.md)
-
-[Bayesian](050-bayesian.md)
-
-[Kata](0600-kata.md)
-
-[AvaliarDistribuicao](0601-avaliarDistribuicao.md)
+1. [Introdução](./010-intro.md)
+2. [Fundamentos](011-fundamentos.md)
+3. [Tendencia Central](012-tendenciaCentral.md)
+4. [Dispersão](013-dispersao.md)
+5. [Assimetria](014-assimetriaEtc.md)
+6. [Exemplos de plots](015-exemplosplots.md)
+7. [Hipoteses](020-hipoteses.md)
+8. [Associações](030-associacoes.md)
+9. [Multivariada](040-multivariada.md)
+10. [Bayesian](050-bayesian.md)
+11. [Avaliar Distribuição](0601-avaliarDistribuicao.md)
