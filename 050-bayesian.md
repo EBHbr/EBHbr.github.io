@@ -1,1 +1,0 @@
-## Inferência Bayesiana
